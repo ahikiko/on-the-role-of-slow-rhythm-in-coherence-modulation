@@ -1,3 +1,6 @@
 ## build a inter-regional interation model
 ## derive the mean field equations
-## a
+## some bifurcation analysis
+## details of torus state
+## external slow forcing on the torus state
+## functionality of external slow forcing
