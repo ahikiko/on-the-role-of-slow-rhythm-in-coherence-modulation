@@ -18,7 +18,7 @@
 # Effect on coherence of the slow rhythm: bottom up sets the state, top down modulates the state
 - set to st: no compuational ability, no external information coded in the dynamics, determined by only the top down signal
 - lc: really hard to implement computational ability, external information coded as gamma oscillation, modulated by top-down signal, hard to make them coherent because of low sensitivity
-- tr: modulate gamma freq if existed (computational ability)
+- tr: has computational ability required for attention, see Bosman for experiment
 
 
 
